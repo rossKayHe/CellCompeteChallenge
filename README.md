@@ -7,4 +7,5 @@ Only if the adjacent cells are one off and one on does the cell become active (r
 
 Eight cells if they are at the end you assume a 0 for that adjacent cell.
 A sample starting array: [0,1,1,0,0,1,1,0]
+
 Days can be 1 - infinite
